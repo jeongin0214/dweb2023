@@ -100,6 +100,7 @@
 
 <body>
 <div id = "wrap"> 
+ <seciton>
     <h2> 위험성평가 : for safety </h2>
     <button type="button" class="collapsible"  onmouseover="collapse(this);"
      window.location.href= " http://icrqa.com/icr/_system/system03.asp" >OHSMS 소개</button>
@@ -121,6 +122,7 @@
     <div class="content">
         <p>내용 4 입니다.</p>
     </div>
+</section>
 
 <footer> 
   <nav>        //네비게이션 링크 집합 정의하기
