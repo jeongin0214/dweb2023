@@ -99,6 +99,7 @@
 </head>
 
 <body>
+<div id = "wrap"> 
     <h2> 위험성평가 : for safety </h2>
     <button type="button" class="collapsible"  onmouseover="collapse(this);"
      window.location.href= " http://icrqa.com/icr/_system/system03.asp" >OHSMS 소개</button>
@@ -120,5 +121,21 @@
     <div class="content">
         <p>내용 4 입니다.</p>
     </div>
+
+<footer> 
+  <nav>        //네비게이션 링크 집합 정의하기
+    <a href = "https://www.kosha.or.kr/kosha/index.do"> 한국산업안전공단 </a>  
+    <a href = "https://safety.seoultech.ac.kr"> 서울과학기술대학교 안전공학과</a> 
+  </nav> 
+
+  <p>
+    <span> 제작자 : 서정인 </span> <br/> 
+    <span> 이메일 : jungin0214@naver.com </span> <br/>
+    <span> &ensp; &emsp; &emsp; april021400@seoultech.ac.kr </span> <br/>
+    <span> 동적웹사이트를위한웹프로그래밍 프로젝트 - 2023년도 </span> <br/>
+  </p> 
+
+</footer> 
+</div>
 </body>
 </html>
