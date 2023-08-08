@@ -42,7 +42,8 @@
         .active:after {
             content: "\2212";
         }
-        #wrap {
+        
+ #wrap {
     position : relative ; 
     width : 100% 
     min-height : 100vh  ;
@@ -90,9 +91,10 @@
     display: inline-block ; 
     margin-left : 60px ;
   }
-    </style>
+  
+  </style>
     
-    <script>
+ <script>
       
       function collapse(element) {
             var before = document.getElementsByClassName("active")[0]               // 기존에 활성화된 버튼
