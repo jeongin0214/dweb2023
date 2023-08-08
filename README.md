@@ -29,7 +29,7 @@
             max-height: 0;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
-            background-color: #f1f1f1;
+            background-color: #F5F5F6;
         }
         .collapsible:after {
             float : left; 
