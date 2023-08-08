@@ -150,17 +150,9 @@
         <li> 참고한 책 </li> 
         <li> 추천 강좌 </li> 
     </div>
-  <h1  > footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1><h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1><h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-  <h1> footer 시험입니다. </h1>
-    
+  <h1  > tbm 버튼 삽입 </h1>
+  <h1> 간이 위험성평가 버튼 삽입  </h1>
+  <h1> 현재 날씨 + 온도에 따른 색변화 버튼 삽입</h1>
   </section> 
   
 <footer> 
