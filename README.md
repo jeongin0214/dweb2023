@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 <meta charset=utf-8">
 <title> 위험성평가seo jeong in </title>
