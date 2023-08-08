@@ -3,7 +3,7 @@
 <head>
 <meta charset="EUC-KR">
 <title> 위험성평가seo jeong in </title>
-    <style href= "style">
+    <style href= "style top">
         .collapsible {
             float : left; 
             background-color: #777;
