@@ -152,6 +152,17 @@
         <li> 참고한 책 </li> 
         <li> 추천 강좌 </li> 
     </div>
+  <h1  > footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1><h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1><h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+  <h1> footer 시험입니다. </h1>
+    
   </section> 
   
 <footer> 
