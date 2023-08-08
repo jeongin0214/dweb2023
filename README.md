@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset=utf-8">
 <title> 위험성평가seo jeong in </title>
     <style href= "style top">
         .collapsible {
@@ -124,7 +124,7 @@
 <section> 
     <h2> 위험성평가 : for safety </h2>
     
-    <button type="button" class="collapsible"  onmouseover="collapse(this);" float : left;>
+    <button type="button" class="collapsible"  onmouseover="collapse(this);" >
       OHSMS 소개</button>
     <div class="content">
         <li> ohsms의 정의 </li> 
@@ -133,21 +133,21 @@
         <li> 직원 준수 사항 </li> 
     </div>
     
-    <button  type="button" class="collapsible"  onmouseover="collapse(this);" float : left; >TBM</button>
+    <button  type="button" class="collapsible"  onmouseover="collapse(this);"  >TBM</button>
     <div class="content">
         <li> TBM 정의 </li> 
         <li> TBM 효과 </li> 
         <li> TBM 예시 </li> 
     </div>
     
-    <button type="button" class="collapsible" onmouseover ="collapse(this);"  float : left;>위험성평가란</button>
+    <button type="button" class="collapsible" onmouseover ="collapse(this);" >위험성평가란</button>
     <div class="content">
         <li> 위험성평가의 개요 </li> 
         <li> 사업장 특징에 따른 위험성 평가 </li> 
         <li> 위험성평가 종류</li> 
     </div>
     
-    <button type="button" class="collapsible" onmouseover="collapse(this);"  float : left;>자료실</button>
+    <button type="button" class="collapsible" onmouseover="collapse(this);" >자료실</button>
     <div class="content">
         <li> 참고한 책 </li> 
         <li> 추천 강좌 </li> 
