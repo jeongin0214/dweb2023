@@ -24,7 +24,7 @@
     <h1> 리더(ex : 작업반장)와 작업자간의 관계 </h1>
   <form class="survey" name = "survey1">
     <span class = "surveyname" > 1. 나는 리더가 지시한 사항에 대해 충분히 인지하고 이해하고 있다.  </span> 
-    
+    </br>
     <input type = "radio" name = "survey1" value="5"> 매우 그렇다 
     <input type = "radio" name = "survey1" value="4"> 그렇다
     <input type = "radio" name = "survey1" value="3"> 보통
@@ -34,7 +34,7 @@
   
   <form class="survey" name = "survey2">
     <span class = "surveyname"> 2. 리더는 현재 나의 몸상태, 집안 환경, 경제적 상황 등을 충분히 인지하고 있다. </span> 
-    
+    </br>
     <input type = "radio" name = "survey2" value="5"> 매우 그렇다 
     <input type = "radio" name = "survey2" value="4"> 그렇다
     <input type = "radio" name = "survey2" value="3"> 보통
@@ -44,14 +44,14 @@
   
   </div>
     
-    
-    
+    <div id = "worker">
+    <h1> 작업자의 안전 의식 </h1> 
   <form class="survey" name = "survey3">
-     <h1> 작업자의 안전 의식 </h1> 
      
-    <div class="survey" >
+     
+    <form class="survey" name = "survey3">
     <span class = "surveyname"> 1. 현재 나는 "프레스"에 대한 올바른 작업방법을 인지하고 있다.</span> 
-    
+    </br>
     <input type = "radio" name = "survey3" value="5"> 매우 그렇다 
     <input type = "radio" name = "survey3" value="4"> 그렇다
     <input type = "radio" name = "survey3" value="3"> 보통
@@ -62,7 +62,7 @@
   
   <form class="survey" name = "survey4">
     <span class = "surveyname"> 2. 나는 동료 근로자와 의사소통이 원할하며 올바른 작업방법을 위해 협력할 수 있다.</span> 
-    
+    </br>
     <input type = "radio" name = "survey4" value="5"> 매우 그렇다 
     <input type = "radio" name = "survey4" value="4"> 그렇다
     <input type = "radio" name = "survey4" value="3"> 보통
@@ -72,10 +72,12 @@
     
   </div> 
   
-  
+  <div id = "last">
   <button id="submit" onclick="checkform()">제출</button>
+  
+  <h1 style="text-align:center; padding-top: 30px;"> 제출 후 부족한 부분을 오늘 작업이 안전하기 위한 방법을 동료들과 토론해보세요!</h1> 
+  </div>
 </section> 
-
 
 
 
