@@ -46,11 +46,11 @@ function service() {
   
   if (loginCorrectMsg.style.opacity == 0) {
     
-     alert("TBMÀº ·Î±×ÀÎ ÈÄ »ç¿ëÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.");   
+     alert("TBMì€ ë¡œê·¸ì¸ í›„ ì‚¬ìš©í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.");   
      
     }    else {
        
-       location.href="https://www.youtube.com/watch?v=mfQvFSkYJBY&list=RD1On_nPYantE&index=5"
+       location.href="https://jeongin0214.github.io/dweb2023/survey.html"
  
     }
 }
