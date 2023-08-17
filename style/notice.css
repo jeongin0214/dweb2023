@@ -1,0 +1,109 @@
+.widget-wrap {
+  width : 85% ; 
+  float : right ; 
+  height : 100% ; 
+   background-color :#F6F5F6 ;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   
+  align-content : space-around ; 
+  flex-direction : column ;
+}
+#title {
+  width : 60% ; 
+  height : 15%;
+  position: static;
+  box-sizing: border-box;
+  padding-top : 50px; 
+  border-bottom : 2px solid #6C6674 ; 
+  border-bottom-length : 400px ; 
+  text-align : center ; 
+} 
+
+#title h1 {
+  color : #6C6674 ; 
+  text-align :center ; 
+  font-size : 35px ; 
+  font-weight : 600;
+}
+
+#title span {
+  font-size : 20px; 
+  font-weight : 500 ; 
+  color : #9D98A4 ; 
+}
+
+#noteform {
+  display : flex ; 
+  align-items : center ; 
+  justify-content : center ; 
+  width : 80% ; 
+  height : 25%;
+  overflow : hidden ;  
+}
+
+#notetxt {
+  width : 60% ; 
+  height : 80% ; 
+  border : 2px solid #5F5D61;
+  border-radius : 10px; 
+  font-size : 15px ; 
+  padding-right : 50px;
+}
+
+
+#notego {
+  margin-left : 10px; 
+  width : 50px; 
+  height : 40px ; 
+  background-color : #AEAAB2 ;
+  border-radius : 10px;
+  border : 2px solid #5F5D61;
+  font-size : 16px; 
+  font-weight : 600; 
+  color :#42384D ; 
+   
+}
+
+#board {
+  height : 60% ; 
+  width : 70% ; 
+  
+} 
+
+#board .note { 
+  border-top,border-bottom : 2px solid #5F5D61;
+}
+
+
+#board .note .del {
+  display : none ; 
+  position : relative ; 
+  color : #55515B;
+  font-size : 18px; 
+  font-weight : 700 ; 
+  padding-bottom : 1px ; 
+  padding-right : 3px ; 
+  text-align : right; 
+}
+
+#board .note:hover .del {
+  display : block ; 
+}
+
+#board .txt {
+  font-size : 15px ; 
+  display : box ; 
+  border :  1.5px solid #5F5D61;
+  border-radius : 5px;
+  overflow : hidden ; 
+  padding : 5px ; 
+  margin-top : 8px; 
+  
+}
+
+
+
+
+
