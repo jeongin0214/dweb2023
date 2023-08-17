@@ -1,0 +1,106 @@
+#wrapper {
+  width : 85% ; 
+  float : right ; 
+  height : 100vh ; 
+   background-color :#F6F5F6;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+  align-content : space-around ; 
+  flex-direction : column ;
+}
+
+#title {
+  width : 100% ; 
+  height : 15% ; 
+  position : relative ; 
+  box-sizing : border-box ; 
+  border-bottom : 3px solid #6C6674 ; 
+  text-align : center ; 
+   
+  max-width : 100% ; 
+  background-color :#DBD9DE; 
+} 
+
+#title h1 {
+  margin-top: 50px; 
+  color : #6C6674 ; 
+  font-size : 38px ; 
+  font-weight : 600;  
+  max-height : 10% ; 
+  
+} 
+
+
+
+.container {
+margin : 0 auto; 
+width : 80% ; 
+height : 85% ; 
+position : relative ;
+text-align : center ; 
+} 
+
+.container .line {
+  width : 100% ; 
+  height : 90% ; 
+  box-sizing : border-box ; 
+  border : 2px solid black ; 
+  border-radius : 20px; 
+  font-size : 15px ; 
+  oversize : hidden ; 
+  padding : 10px 10px  ; 
+  top : 5% ;
+  left : 0% ; 
+  position : absolute ; 
+} 
+
+
+.container .line span {
+  display : block ; 
+  margin : 0 auto; 
+  width : 80% ; 
+  height : 40% ; 
+  text-align : center ; 
+  oversize : hidden ; 
+  
+  padding-top : 20px ; 
+}
+
+.container .line span img {
+  text-align : center ; 
+  max-height : 100% ;
+  max-width : 100% ; 
+  margin : 0 auto; 
+  height: auto;
+  display: block;
+} 
+
+.container .line .explain { 
+  margin : 0 auto ;
+  display : block ; 
+  width : 80% ; 
+  height : 50% ; 
+  text-align : start ;
+  margin-top : 2% ;   
+} 
+
+.container .line h1 {
+  font-size : 19px ; 
+  font-weight : 600 ; 
+  color : #5A4D6C ; 
+  padding-top : 10px ; 
+  padding-left : 30px ; 
+}
+.container .line p {
+  font-size : 17px ; 
+  font-weight : 500 ; 
+  color : #58545E; 
+  padding-top : 5px ; 
+}   
+
+
+
+
+
