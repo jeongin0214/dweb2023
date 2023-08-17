@@ -23,4 +23,3 @@ if ( (survey4.survey4[0].checked == false)&&(survey4.survey4[1].checked == false
     };     
 
 }
-
